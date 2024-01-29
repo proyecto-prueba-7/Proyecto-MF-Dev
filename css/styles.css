@@ -1,7 +1,11 @@
 body{
-    background: purple;
+    background: rgb(255, 99, 255);
 }
 
 h1{
     color: white;
+}
+
+h2{
+    color: blue;
 }

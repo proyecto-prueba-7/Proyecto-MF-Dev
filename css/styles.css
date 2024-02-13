@@ -2,16 +2,23 @@ body{
     background: rgb(12, 12, 12);
     display: flex;
     flex-direction: column;
+justify-content:center;
+align-items:center;
+gap:20px;
     min-height: 100vh;
 }
 
 head{
     width: 90%;
     height: auto;
+display:flex;
+flex-direction:colum;
+align-items:center;
+justify-content:center;
 }
 
 nav{
-    width: 90%;
+    width: auto;
     height: auto;
 }
 
@@ -83,4 +90,9 @@ footer p{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
+}
+
+footer p a{
+text-decoration:none;
+
 }

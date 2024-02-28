@@ -4,6 +4,8 @@
 
 <h2>Detalles del Proyecto</h2>
 
+***
+
 <p>Es un proyecto que se desarrollo para el curso de git</p>
 
 <h3>Objetivos del Curso</h3>
